@@ -25,7 +25,7 @@ import (
 	ctrl "sigs.k8s.io/controller-runtime"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	webappv1 "github.com/elastic/crd-ref-docs/api/v1"
+	webappv1 "github.com/rustycl0ck/crd-ref-docs/api/v1"
 )
 
 // GuestbookReconciler reconciles a Guestbook object

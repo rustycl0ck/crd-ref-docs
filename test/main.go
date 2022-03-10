@@ -27,8 +27,8 @@ import (
 	ctrl "sigs.k8s.io/controller-runtime"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	webappv1 "github.com/elastic/crd-ref-docs/api/v1"
-	"github.com/elastic/crd-ref-docs/controllers"
+	webappv1 "github.com/rustycl0ck/crd-ref-docs/api/v1"
+	"github.com/rustycl0ck/crd-ref-docs/controllers"
 	// +kubebuilder:scaffold:imports
 )
 

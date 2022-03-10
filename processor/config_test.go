@@ -3,7 +3,7 @@ package processor
 import (
 	"testing"
 
-	"github.com/elastic/crd-ref-docs/config"
+	"github.com/rustycl0ck/crd-ref-docs/config"
 	"github.com/stretchr/testify/require"
 )
 
